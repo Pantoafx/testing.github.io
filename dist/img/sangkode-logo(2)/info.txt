@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Archivo-Medium
+font link: https://fonts.google.com/specimen/Archivo
+font author: Omnibus-Type
+font author site: http://www.omnibus-type.com/
+
+
+icon designer: Arthur Shlain
+icon designer link: /ArtZ91
+        
+{"bg":"#F8680C","icon":"#E7E7E6","font":"#E7E7E6","slogan":"#fbfbfa"}
+      
